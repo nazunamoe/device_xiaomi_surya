@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_surya.mk
+    $(LOCAL_DIR)/bliss_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    rr_surya-user \
-    rr_surya-userdebug \
-    rr_surya-eng
+    bliss_surya-user \
+    bliss_surya-userdebug \
+    bliss_surya-eng

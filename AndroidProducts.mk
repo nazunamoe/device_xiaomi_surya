@@ -5,9 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_surya.mk
-
-COMMON_LUNCH_CHOICES := \
-    ancient_surya-user \
-    ancient_surya-userdebug \
-    ancient_surya-eng
+    $(LOCAL_DIR)/aicp_surya.mk

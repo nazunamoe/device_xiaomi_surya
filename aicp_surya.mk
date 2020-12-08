@@ -17,12 +17,10 @@ $(call inherit-product, vendor/aicp/config/common_full_phone.mk)
 PRODUCT_NAME := aicp_surya
 PRODUCT_DEVICE := surya
 PRODUCT_BRAND := POCO
-PRODUCT_MODEL := M2007J20CG
+PRODUCT_MODEL := POCO X3
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 1080
-
-PRODUCT_GMS_CLIENTID_BASE := android-xiaomi

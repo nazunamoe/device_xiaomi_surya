@@ -14,8 +14,8 @@
 <resources>
 
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Advanced settings</string>
-    <string name="advanced_settings">Device features</string>
+    <string name="device_settings_app_name">고급 설정</string>
+    <string name="advanced_settings">기기 특화 기능</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">On</string>

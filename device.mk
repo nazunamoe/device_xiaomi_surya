@@ -146,8 +146,7 @@ PRODUCT_PACKAGES += \
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
-    vendor/qcom/opensource/commonsys/packages/apps/Bluetooth \
-    vendor/qcom/opensource/commonsys/system/bt/conf
+    vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
 
 # Telephony
 PRODUCT_PACKAGES += \
@@ -189,3 +188,4 @@ PRODUCT_EXTRA_VNDK_VERSIONS := 29
 PRODUCT_PACKAGES += \
     TetheringConfigOverlay \
     WifiOverlay
+

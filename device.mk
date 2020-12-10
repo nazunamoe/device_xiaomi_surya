@@ -143,11 +143,6 @@ PRODUCT_PACKAGES += \
     PresencePolling \
     RcsService
 
-# Soong namespaces
-PRODUCT_SOONG_NAMESPACES += \
-    $(LOCAL_PATH) \
-    vendor/qcom/opensource/commonsys/packages/apps/Bluetooth
-
 # Telephony
 PRODUCT_PACKAGES += \
     ims-ext-common \

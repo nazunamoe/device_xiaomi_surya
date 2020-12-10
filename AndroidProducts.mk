@@ -5,9 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_surya.mk
-
-COMMON_LUNCH_CHOICES := \
-    bliss_surya-user \
-    bliss_surya-userdebug \
-    bliss_surya-eng
+    $(LOCAL_DIR)/aicp_surya.mk

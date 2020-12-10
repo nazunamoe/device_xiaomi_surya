@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp_surya.mk
+    $(LOCAL_DIR)/dot_surya.mk

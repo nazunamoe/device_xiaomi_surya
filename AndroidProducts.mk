@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_surya.mk
+    $(LOCAL_DIR)/hentai_surya.mk
+    
+COMMON_LUNCH_CHOICES := \
+    hentai_surya-user \
+    hentai_surya-userdebug \
+    hentai_surya-eng
